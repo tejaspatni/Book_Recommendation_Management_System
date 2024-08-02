@@ -1,0 +1,16 @@
+pandas
+torch==2.2.0
+torchvision==0.17.0
+torchaudio==2.2.0
+numpy<2
+psycopg2-binary
+transformers
+scikit-learn
+flask
+faker
+joblib
+sqlalchemy
+asyncpg
+fastapi
+uvicorn
+pytest
